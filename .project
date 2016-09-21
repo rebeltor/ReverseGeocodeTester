@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ReverseGeocodeTester</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>libs/commons-io-2.5.jar</name>
+			<type>1</type>
+			<location>/Users/torrancejones/Documents/workspace/ReverseGeocodeTester/libs/commons-io-2.5.jar</location>
+		</link>
+		<link>
+			<name>libs/gson-2.7.jar</name>
+			<type>1</type>
+			<location>/Users/torrancejones/Documents/workspace/ReverseGeocodeTester/libs/gson-2.7.jar</location>
+		</link>
+	</linkedResources>
+</projectDescription>
