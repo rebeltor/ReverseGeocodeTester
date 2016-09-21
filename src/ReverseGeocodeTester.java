@@ -19,7 +19,7 @@ public class ReverseGeocodeTester {
 		// keep this key secret so at to prevent key hijacking
 		// as of September 2016, basic free accounts allow for 2500 lookups per day
 		//
-		String apiKey = "xxxxxxxxx";
+		String apiKey = "xxxxxxxxxxxxxxx";
 		
 		System.out.println("Reverse Geocode Tester Program");
 		System.out.println("============================================================");
