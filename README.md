@@ -1,4 +1,4 @@
-#ReverseGeocodeTester
+#Reverse Geocode Tester
 Purpose: to double check the gps locations returned from Android against the Google Reverse Geocode Street Address
 
 To use: 
